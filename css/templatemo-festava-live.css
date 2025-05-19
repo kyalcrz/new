@@ -586,7 +586,13 @@ strong {
 /*---------------------------------------
   ARTISTS              
 -----------------------------------------*/
-.artists-thumb {
+.artist-section{	
+  background-image: url('../images/eventbg/bg5.jpg');
+  background-color: #242424;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}.artists-thumb {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
@@ -644,7 +650,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-image: url('../images/backgroundbg.jpg');
+  background-image: url('../images/bgblurr.jpg');
   background-color: #242424;
   background-repeat: no-repeat;
   background-position: center;
