@@ -552,13 +552,7 @@ strong {
 /*---------------------------------------
   ARTISTS              
 -----------------------------------------*/
-.artist-section{	
-  background-image: url('../images/eventbg/bg5.jpg');
-  background-color: #242424;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}.artists-thumb {
+.artists-thumb {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
@@ -600,11 +594,11 @@ strong {
 }
 
 .artists-hover p a {
-  border-bottom-color: transparent;
+  color: var(--secondary-color);
 }
 
 .artists-hover p a:hover {
-  border-bottom-color: transparent;
+  color: var(--white-color);
 }
 
 .artists-hover hr {
