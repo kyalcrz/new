@@ -634,11 +634,11 @@ strong {
 }
 
 .artists-hover p a {
-  color: var(--secondary-color);
+  border-bottom-color: transparent;
 }
 
 .artists-hover p a:hover {
-  color: var(--white-color);
+  border-bottom-color: transparent;
 }
 
 .artists-hover hr {
@@ -700,15 +700,15 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-  background-image: url('../images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+  background-image: url('../images/artists/eventbg/BGCITE.jpg');
 }
 
 .schedule-table .rock-background-image {
-  background-image: url('../images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+  background-image: url('../images/artists/eventbg/bg7.jpg');
 }
 
 .schedule-table .country-background-image {
-  background-image: url('../images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+  background-image: url('../images/artists/eventbg/bg6.jpg');
 }
 
 .table-background-image-wrap {
