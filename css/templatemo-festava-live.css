@@ -552,13 +552,22 @@ strong {
 /*---------------------------------------
   ARTISTS              
 -----------------------------------------*/
-.artist-section{	
+.artist-section {	
   background-image: url('../images/eventbg/bg5.jpg');
   background-color: #242424;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}.artists-thumb {
+}
+.about-image {
+  border-radius: var(--border-radius-medium);
+  display: block;
+}
+
+.about-text-wrap {
+  position: relative;
+  
+.artists-thumb {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
